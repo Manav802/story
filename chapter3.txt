@@ -1,4 +1,3 @@
-This is the 3rd capter 
+This is the 3rd capter
 Master commit for rebase
 Changes for rebase 2
-
